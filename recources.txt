@@ -1,0 +1,44 @@
+========
+CSS
+========
+CSS STYLE GUIDES
+github - https://primer.github.io/
+google - https://google.github.io/styleguide/htmlcssguide.html#HTML
+IdiomaticCSS - https://github.com/necolas/idiomatic-css
+cssguidelines - https://cssguidelin.es/
+Smashing - https://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/
+ThinkUp- https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS
+WordPress - https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/
+SMACCS - SMACSS (html and css naming methodology): https://smacss.com/book/
+
+Popular CSS style guides: https://css-tricks.com/css-style-guides/
+
+KSS (css documentation): http://warpspire.com/kss/
+
+ITCSS (CSS Architecture): https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
+
+CSS Code Review: https://css-tricks.com/what-a-css-code-review-might-look-like/
+
+CSS Property grouping: https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/
+
+========
+HTML
+========
+
+========
+JS
+========
+Using JSDoc: http://usejsdoc.org/
+
+========
+GENERAL
+========
+BEM (html and css naming): https://css-tricks.com/bem-101/
+BEM (html and css naming): https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+
+important!: https://css-tricks.com/when-using-important-is-the-right-choice/
+
+Pattern Library: https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
+Pattern Library: http://bradfrost.com/blog/post/anatomy-of-a-pattern-in-a-pattern-library/
+
+
